@@ -1,0 +1,27 @@
+Card number|Card type
+375256376263831|American Express
+378173417142147|American Express
+341859308214862|American Express
+373484012161043|American Express
+346531965884882|American Express
+374590303814758|American Express
+370396873044295|American Express
+373546635380935|American Express
+343393513809892|American Express
+344159847203766|American Express
+344962086818750|American Express
+379052191624216|American Express
+373316690771596|American Express
+347996893298795|American Express
+342046400945028|American Express
+348456175815096|American Express
+379132631031410|American Express
+372711926870835|American Express
+344816707315143|American Express
+375875658980737|American Express
+375479574748243|American Express
+376035652512791|American Express
+375992809945590|American Express
+378079042586493|American Express
+372873099695066|American Express
+344751609149573|American Express
